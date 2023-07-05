@@ -12,6 +12,7 @@ Main Map:
 • Established concrete airports vector data as a heatmap and point cluster.
   Moreover, reduce its opacity to uncover parcels map of Alaska.
 • The parcels map of Alaska is created from gradient fill
+• Added grid lines
 
 Title:
 • used HTML to generate proper formatting and show accurate date in profile
