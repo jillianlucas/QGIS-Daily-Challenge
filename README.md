@@ -16,3 +16,7 @@ Main Map:
 Title:
 • used HTML to generate proper formatting and show accurate date in profile
 ```
+
+```bash
+'July 6, 2023' DAY 2-Spatial Analysis and Python
+
