@@ -20,6 +20,7 @@ Title:
 
 ```bash
 'July 6, 2023' DAY 2-Spatial Analysis and Python
+```
 
 ```bash
 'July 22, 2023'
@@ -38,4 +39,4 @@ DAY 1-Buildings Found in Downtown, Vancouver
 - toggle editing mode | delete fields | shift and manually select fields
 • Designed labels in a new map
 - item properties | columns
-
+```
