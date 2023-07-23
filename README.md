@@ -21,3 +21,21 @@ Title:
 ```bash
 'July 6, 2023' DAY 2-Spatial Analysis and Python
 
+```bash
+'July 22, 2023'
+DAY 1-Alaska shp.file
+• Clipped raster and vector layers
+- 2 layers | raster | extraction | clip by mask layer | input layer
+- note: doesn't work all the time, check this again
+
+DAY 1-Buildings Found in Downtown, Vancouver
+• Extracted data from OpenStreetMap
+- installed the plugin, Quick OSM -> select a data value (e.g. building) -> select canvas extent
+- for selecting a specific area: select features | add new temporary layer | paste
+• Rearranged attribute table in QGIS
+- installed the plugin, refractor fields
+• Deleted Columns in attribute table
+- toggle editing mode | delete fields | shift and manually select fields
+• Designed labels in a new map
+- item properties | columns
+
