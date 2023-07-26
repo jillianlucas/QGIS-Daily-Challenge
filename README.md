@@ -42,7 +42,7 @@ DAY 1-Buildings Found in Downtown, Vancouver
 ```
 
 ```bash
-'July 23, 2023'
+'July 23, 2023' - Dining Adventures! Project
 • Created a .csv file that consists of my favorite restaurants in Downtown, Vancouver
 - obtained lat and long coordinates through Google Earth Pro
 - transform coordinates from EPSG:4326 WGS 84 to ESPG:3857 using epsg.io link
