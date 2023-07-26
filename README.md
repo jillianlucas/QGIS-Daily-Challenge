@@ -40,3 +40,19 @@ DAY 1-Buildings Found in Downtown, Vancouver
 • Designed labels in a new map
 - item properties | columns
 ```
+
+```bash
+'July 23, 2023'
+• Created a .csv file that consists of my favorite restaurants in Downtown, Vancouver
+- obtained lat and long coordinates through Google Earth Pro
+- transform coordinates from EPSG:4326 WGS 84 to ESPG:3857 using epsg.io link
+*note: find a better way to get accurate coordinates
+- Added labels and set different symbols using a SVG marker
+• Used OpenStreetMap in creating a .shp file layer for specific buildings in the map
+```
+
+```bash
+'July 24, 2023'
+• Only have selected streets with attributes included
+- select features by freehand | export | save selected feature as | _put location_ | ok
+```
