@@ -1,5 +1,5 @@
-# QGIS-Daily-Challenge
-100-day challenge emphasizing on enhancing my skills in Spatial Analysis through the use of QGIS with Python!
+# Summer 2024 - Exploring the World with QGIS!
+Emphasizing on enhancing my skills in Spatial Analysis through the use of QGIS with Python!
 
 My background:
 • Accomplished and earned a certificate of completion for the Learning QGIS course from LinkedIn Learning
